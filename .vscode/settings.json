@@ -1,4 +1,5 @@
 {
     "omnisharp.useEditorFormattingSettings": true,
+    "angular.enable-strict-mode-prompt": false,
     
 }
